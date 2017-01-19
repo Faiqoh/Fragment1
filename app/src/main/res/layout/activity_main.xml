@@ -13,7 +13,7 @@
 
 
     <fragment
-        android:id="@+id/frameOutput"
+        android:id="@+id/fragmentOutput"
         android:name="id.sch.smktelkom_mlg.learn.fragment1.OutputFragment"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
