@@ -13,16 +13,16 @@
 
 
     <fragment
-        android:id="@+id/fragmentInput"
-        android:name="id.sch.smktelkom_mlg.learn.fragment1.InputFragment"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        tools:layout="@layout/fragment_input" />
-
-    <fragment
         android:id="@+id/frameOutput"
         android:name="id.sch.smktelkom_mlg.learn.fragment1.OutputFragment"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         tools:layout="@layout/fragment_output" />
+
+    <fragment
+        android:id="@+id/fragmentInput"
+        android:name="id.sch.smktelkom_mlg.learn.fragment1.InputFragment"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        tools:layout="@layout/fragment_input" />
 </LinearLayout>
